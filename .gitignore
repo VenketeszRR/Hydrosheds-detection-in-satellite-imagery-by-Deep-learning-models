@@ -1,0 +1,8 @@
+# Ignore IPython notebook 
+.ipynb_checkpoints
+*.ipynb
+
+*.pyc
+
+# Ignore the TODO file
+TODO.txt
